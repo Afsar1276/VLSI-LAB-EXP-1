@@ -140,7 +140,7 @@ and G4(w3,X,Y);
 or G5(CO,w3,w3);
 endmodule
 ```
-8 bit ripple carry adder:
+# 8 bit ripple carry adder:
 ```
 module rippe_adder(S,Cout,X,Y,Cin);
 input [7:0] X,Y;
@@ -169,7 +169,7 @@ and G4(w3,X,Y);
 or G5(CO,w3,w3);
 endmodule
 ```
-OUTPUT:
+# OUTPUT:
 # OR gate:
 ![WhatsApp Image 2024-04-21 at 13 39 05_602e02fb](https://github.com/Afsar1276/VLSI-LAB-EXP-1/assets/161407741/0e72fbe9-3246-44d6-8c85-5500e0d6a0fe)
 # NOT gate:
